@@ -1,0 +1,7 @@
+C:\Users\SIVANNARAYANA\source\repos\Anonymousmethod\Anonymousmethod\bin\Debug\Anonymousmethod.exe.config
+C:\Users\SIVANNARAYANA\source\repos\Anonymousmethod\Anonymousmethod\bin\Debug\Anonymousmethod.exe
+C:\Users\SIVANNARAYANA\source\repos\Anonymousmethod\Anonymousmethod\bin\Debug\Anonymousmethod.pdb
+C:\Users\SIVANNARAYANA\source\repos\Anonymousmethod\Anonymousmethod\obj\Debug\Anonymousmethod.csproj.AssemblyReference.cache
+C:\Users\SIVANNARAYANA\source\repos\Anonymousmethod\Anonymousmethod\obj\Debug\Anonymousmethod.csproj.CoreCompileInputs.cache
+C:\Users\SIVANNARAYANA\source\repos\Anonymousmethod\Anonymousmethod\obj\Debug\Anonymousmethod.exe
+C:\Users\SIVANNARAYANA\source\repos\Anonymousmethod\Anonymousmethod\obj\Debug\Anonymousmethod.pdb
